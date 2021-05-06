@@ -1,1 +1,0 @@
-# yo-code-generator-nb
